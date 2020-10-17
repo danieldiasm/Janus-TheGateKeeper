@@ -1,4 +1,5 @@
 # Janus - The Gate Keeper
+:no_entry: [DEPRECATED] 
 
 Janus is a system for controlling automatic garage doors using bluetooth as configuration interface via serial commands.
 

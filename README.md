@@ -14,4 +14,4 @@ Nothing special, it onle reads some GPIO and talks through serial to bluetooth i
 
 ## Installation
 
-This is needed only an arduino with a HC-06 sensor on Serial Interface.
+This is needed only an arduino with a HC-06 bluetooth module on Serial Interface.
